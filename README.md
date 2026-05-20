@@ -1,2 +1,2 @@
 # Capstone-Stock-Dashboard
-A quantitative stock analysis Capstone Project focusing on time-series forecasting (Prophet, Auto-ARIMA) and volatility-weighted portfolio allocation, validated through live execution on the Indian Stock Market.
+A comprehensive quantitative finance project showcasing end-to-end algorithmic stock analysis. This repository demonstrates practical skills in Python (pandas, yfinance), statistical modeling (statsmodels), machine learning (Prophet, scikit-learn), and live market execution. The strategy successfully bridges the gap between theoretical predictive mathematics and real-world market volatility.
